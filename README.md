@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+<p align="center">
+  <a href="https://www.xiexuc.xyz/">Portfolio</a> |
+  <a href="https://www.xiexuc.xyz/blog">Blog</a> |
+  <a href="https://www.linkedin.com/in/liam-chen/">Linkedin</a>
+  <br />
+  <br />
+</p>
 
 <!--
 **Liamxiexuc/Liamxiexuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
